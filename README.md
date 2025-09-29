@@ -3,10 +3,10 @@
 ## Resultados (visualizaciones)
 
 **Equity curve — 60/40: Lump Sum vs DCA**
-![Equity curve](equity_curve.png)
+![Equity curve 60/40: Lump Sum vs DCA](equity_curve.png)
 
 **Drawdown — Lump Sum (60/40)**
-![Drawdown LS](drawdown_ls.png)
+![Drawdown – Lump Sum (60/40)](drawdown_ls.png)
 
 ## Métricas clave (mi ejecución)
 - **MDD**: LS −33.5% → DCA −20.1%  
