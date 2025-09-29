@@ -14,4 +14,6 @@
 - **Vol (LS)**: 9.91%  
 - **Pérdida a 12m (LS)**: 15.8%
 
-> Datos: Stooq (spy.us, bnd.us), frecuencia mensual. Rebalanceo anual en enero.
+**Periodo analizado:** 2007-04 → 2025-09  
+**Fuente:** Stooq (spy.us, bnd.us), frecuencia mensual. Rebalanceo anual en enero (60/40).
+
